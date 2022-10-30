@@ -1,4 +1,9 @@
 {
   "name": "BlottNativeBoilerplate",
-  "displayName": "Blott Native Boilerplate"
+  "displayName": "Blott Native Boilerplate",
+  "extra": {
+    "eas": {
+      "projectId": "5b56604d-45a1-4cf1-945f-78fd3eca3dfa"
+    }
+  }
 }
