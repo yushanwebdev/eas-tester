@@ -32,6 +32,8 @@
     "validate": "npm run lint && npm run check-format && npm run check-types"
   },
   "dependencies": {
+    "eas-cli": "^2.6.0",
+    "expo": "^46.0.16",
     "react": "^17.0.2",
     "react-native": "^0.66.0",
     "react-native-navigation": "^7.23.1",
